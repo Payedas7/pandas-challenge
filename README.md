@@ -2,6 +2,10 @@
 # Heroes_of_Pymoli
 ________________________________
 
+                              Data Analysis: Report generated based on the data provided      
+                                             for the “Heroes of Pymoli” game 
+******************************************************************************************************************************                                             
+                                             
 •	Only 1 of the 6 most popular items appear in the list of the 18 lowest priced items/items prices in the bottom 10% of item prices. (See Popular Items and Other Analysis - Lowest Priced)
 
 •	Males not only the make up over 80% of the players of this game, they are also responsible for over 80% of the revenue. (See Gender Demographics and Other Analysis - Gender Purchase Totals)
